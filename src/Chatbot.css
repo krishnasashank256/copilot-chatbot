@@ -1,0 +1,20 @@
+.chat-container {
+    height: 90%;
+    width: 90%;
+    /* background: url(../public/assets/background.png); */
+    background-size: cover;
+    background-position: center;
+    padding: 2vw;
+    display: inline-flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+  .chat-container {
+    width: 90%;
+    height: 90%;
+    border: 2px solid #0078D7; /*Adds a border around the iframe */
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3); /* Add a shadow effect*/
+    border-radius: 10px; /* Rounded corners */
+  }
+   
